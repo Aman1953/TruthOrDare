@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorPrimary">#BF7A9D</color>
+    <color name="colorPrimaryDark">#420F29</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ToD</string>
+    <string name="spin_bottle">Spin Bottle</string>
+    <style name="Base.Theme.ToD" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="Theme.ToD" parent="Base.Theme.ToD"/>
+</resources>
