@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color colorPrimary
+color colorPrimaryDark
+color white
+drawable bottle
+drawable btnshape
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id imageView
+id main
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string spin_bottle
+style Base.Theme.ToD
+style Theme.ToD
+xml backup_rules
+xml data_extraction_rules
